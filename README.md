@@ -1,8 +1,18 @@
-### Hey! I'm [@alexsavio](https://twitter.com/alex_savio) (Alexandre M. Savio) 👋
+## Hey! I'm [@alexsavio](https://twitter.com/alex_savio) (Alexandre M. Savio) 👋
 
 I'm a software developer. 🐍
 
 I currently live between the Basque Country (Spain) and Germany. 🌍🇪🇸🇩🇪
+
+I like to design, build and automate things with machine learning, distributed systems, data warehouses, containers and serverless, Python, modern backend APIs, chat bots, CI/CD pipelines,
+and use infrastructure as code for the public cloud providers. 🤖
+
+I am currently helping a limited number of teams and organizations as an **external consultant**. At the same
+time I'm learning Rust 🦀 and building business ideas to be able to help more teams to work together.
+
+If you would like to have my help with your team and product, feel free to **contact me**. 🤓
+
+### A bit about me...
 
 I hold a PhD in machine learning applied to brain image processing and disease detection.
 
@@ -33,14 +43,6 @@ A useful tool that I created to generate badges for conferences which ended up b
 friends: [docstamp](https://github.com/PythonSanSebastian/docstamp) and [tito-docstamp](https://github.com/PythonSanSebastian/tito-docstamp).
 
 I created [**hansel**](https://github.com/alexsavio/hansel) as a tool to help with my research and other open source tools. 🚀
-
-I like to design, build and automate things with machine learning, distributed systems, data warehouses, containers and serverless, Python, modern backend APIs, chat bots, CI/CD pipelines,
-and use infrastructure as code for the public cloud providers. 🤖
-
-I am currently helping a limited number of teams and organizations as an **external consultant**. At the same
-time I'm learning Rust 🦀 and building business ideas to be able to help more teams to work together.
-
-If you would like to have my help with your team and product, feel free to **contact me**. 🤓
 
 You can find me on:
 
