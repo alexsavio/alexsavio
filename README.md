@@ -24,20 +24,19 @@ Then I left academia...
 
 Since 2017 I have been involved in a wide variety of projects in small teams in different companies:
 
-    - Ansible to provision remote clusters with Kafka and the ElasticSearch stack,
-    - widely used Java library for logging through Kafka for the automotive industry,
-    - C++ to automate a Universal Robot to use as a ground truth for motion sensors,
-    - Python and Falcon to create an IoT end-user facing API for users, devices, and firmwares running on AWS,
-    - Serverless Framework, Terraform and later AWS CDK to create AWS Step Functions to ingest data into Redshift and S3 for a data warehouse, and
-    - Golang and OpenAPI to implement integration tests for an end-user facing API.
+- Ansible to provision remote clusters with Kafka and the ElasticSearch stack,
+- widely used Java library for logging through Kafka for the automotive industry,
+- C++ to automate a Universal Robot to use as a ground truth for motion sensors,
+- Python and Falcon to create an IoT end-user facing API for users, devices, and firmwares running on AWS,
+- Serverless Framework, Terraform and later AWS CDK to create AWS Step Functions to ingest data into Redshift and S3 for a data warehouse, and
+- Golang and OpenAPI to implement integration tests for an end-user facing API.
 
 I also have been participate in the European Python community since 2014:
-
-    - co-founded [ACPySS](https://github.com/PythonSanSebastian) to support the Python community,
-    - PSF Fellow and member of the EuroPython Society Board,
-    - core organizer of the PySS conferences, EuroPython 2015 and 2016, and EuroScipy 2019 through ACPySS,
-    - helped in the organization of other EuroScipy, PyMunich and PyConDE, and
-    - speaker in scientific conferences and also a few Python conferences like PySS, PyData/PyCon Italy, PyConDE, and EuroPython.
+- co-founded [ACPySS](https://github.com/PythonSanSebastian) to support the Python community,
+- PSF Fellow and member of the EuroPython Society Board,
+- core organizer of the PySS conferences, EuroPython 2015 and 2016, and EuroScipy 2019 through ACPySS,
+- helped in the organization of other EuroScipy, PyMunich and PyConDE, and
+- speaker in scientific conferences and also a few Python conferences like PySS, PyData/PyCon Italy, PyConDE, and EuroPython.
 
 A useful tool that I created to generate badges for conferences which ended up being popular among some
 friends: [docstamp](https://github.com/PythonSanSebastian/docstamp) and [tito-docstamp](https://github.com/PythonSanSebastian/tito-docstamp).
