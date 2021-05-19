@@ -34,7 +34,7 @@ friends: [docstamp](https://github.com/PythonSanSebastian/docstamp) and [tito-do
 
 I created [**hansel**](https://github.com/alexsavio/hansel) as a tool to help with my research and other open source tools. 🚀
 
-I like to design, build and automate things with machine learning, distributed systems, data warehouses, containers and serverless, Python, TypeScript (and JavaScript), modern backend APIs, chat bots, CI/CD pipelines,
+I like to design, build and automate things with machine learning, distributed systems, data warehouses, containers and serverless, Python, modern backend APIs, chat bots, CI/CD pipelines,
 and use infrastructure as code for the public cloud providers. 🤖
 
 I am currently helping a limited number of teams and organizations as an **external consultant**. At the same
