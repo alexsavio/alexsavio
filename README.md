@@ -6,11 +6,11 @@ I currently live between the Basque Country (Spain) and Bavaria (Germany). 🌍�
 
 I like to design, build and automate things:
 
-    - machine learning, 
-    - distributed systems, 
-    - data warehouses, 
-    - containers, and 
-    - serverless.
+- machine learning, 
+- distributed systems, 
+- data warehouses, 
+- containers, and 
+- serverless.
 
 I also enjoy developing modern backend APIs, chat bots, CI/CD pipelines, and use infrastructure as code for the public cloud providers. 🤖
 
