@@ -5,6 +5,7 @@ I'm a computer scientist. I use Python and Java mainly these days. 🐍☕
 I currently live between the Basque Country (Spain) and Bavaria (Germany). 🌍🇪🇸🇩🇪
 
 I like to design, build and automate things:
+
     - machine learning, 
     - distributed systems, 
     - data warehouses, 
