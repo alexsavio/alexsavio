@@ -32,7 +32,7 @@ Then I left academia...
 Since 2017 I have been involved in a wide variety of projects in small teams in different companies:
 
 - Ansible to provision remote clusters with Kafka and the ElasticSearch stack,
-- widely used Java library for logging through Kafka for the automotive industry,
+- maintenance of a shared Java library for logging events through Kafka for the automotive industry,
 - C++ to automate a Universal Robot to use as a ground truth for motion sensors,
 - Python and Falcon to create an IoT end-user facing API for users, devices, and firmwares running on AWS,
 - Serverless Framework, Terraform and later AWS CDK to create AWS Step Functions to ingest data into Redshift and S3 for a data warehouse, and
