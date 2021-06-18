@@ -2,7 +2,7 @@
 
 I'm a software developer. 🐍
 
-I currently live between the Basque Country (Spain) and Germany. 🌍🇪🇸🇩🇪
+I currently live between the Basque Country (Spain) and Bavaria (Germany). 🌍🇪🇸🇩🇪
 
 I like to design, build and automate things with machine learning, distributed systems, data warehouses, containers and serverless, Python, modern backend APIs, chat bots, CI/CD pipelines,
 and use infrastructure as code for the public cloud providers. 🤖
