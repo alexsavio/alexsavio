@@ -1,6 +1,6 @@
 ## Hey! I'm [@alexsavio](https://twitter.com/alex_savio) (Alexandre M. Savio) 👋
 
-I'm a software developer. 🐍
+I'm a computer scientist. I use Python and Java mainly these days. 🐍☕
 
 I currently live between the Basque Country (Spain) and Bavaria (Germany). 🌍🇪🇸🇩🇪
 
@@ -10,8 +10,6 @@ I like to design, build and automate things:
     - data warehouses, 
     - containers, and 
     - serverless.
-    
-I use Python and Java mainly these days.
 
 I also enjoy developing modern backend APIs, chat bots, CI/CD pipelines, and use infrastructure as code for the public cloud providers. 🤖
 
