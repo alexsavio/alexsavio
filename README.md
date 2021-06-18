@@ -4,8 +4,16 @@ I'm a software developer. 🐍
 
 I currently live between the Basque Country (Spain) and Bavaria (Germany). 🌍🇪🇸🇩🇪
 
-I like to design, build and automate things with machine learning, distributed systems, data warehouses, containers and serverless, Python, modern backend APIs, chat bots, CI/CD pipelines,
-and use infrastructure as code for the public cloud providers. 🤖
+I like to design, build and automate things:
+    - machine learning, 
+    - distributed systems, 
+    - data warehouses, 
+    - containers, and 
+    - serverless.
+    
+I use Python and Java mainly these days.
+
+I also enjoy developing modern backend APIs, chat bots, CI/CD pipelines, and use infrastructure as code for the public cloud providers. 🤖
 
 I am currently helping a limited number of teams and organizations as an **external consultant**. At the same
 time I'm learning Rust 🦀 and building business ideas to be able to help more teams to work together.
