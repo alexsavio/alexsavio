@@ -15,7 +15,7 @@ I like to design, build and automate things using:
 I also enjoy developing modern backend APIs, chat bots, CI/CD pipelines, and use infrastructure as code for the public cloud providers. 🤖
 
 I am currently helping a limited number of teams and organizations as an **external consultant**. At the same
-time I'm learning Rust 🦀 and building business ideas to be able to help more teams to work together.
+time I'm learning Rust 🦀 and building business ideas.
 
 If you would like to have my help with your team and product, feel free to **contact me**. 🤓
 
