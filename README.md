@@ -37,7 +37,9 @@ Since 2017 I have been involved in a wide variety of projects in small teams in 
 - C++ to automate a Universal Robot to use as a ground truth for motion sensors,
 - Python and Falcon to create an IoT end-user facing API for users, devices, and firmwares running on AWS,
 - Serverless Framework, Terraform and later AWS CDK to create AWS Step Functions to ingest data into Redshift and S3 for a data warehouse, and
-- Golang and OpenAPI to implement integration tests for an end-user facing API.
+- Golang and OpenAPI to implement integration tests for an end-user facing API,
+- Python on Airflow to maintain a datalake in Elasticsearch with Points-Of-Interest data for a car navigation system,
+- Real-time asynchronous system in Python to send alerts to Slack (and other places) based on a statistical model running against big-data on Rockset for a fintech company.
 
 I also have participated in the European Python community since 2014. I am a PSF Fellow and a EuroPython Fellow, I also have:
 - co-founded [ACPySS](https://github.com/PythonSanSebastian) to support the local Python community,
